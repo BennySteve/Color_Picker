@@ -1,0 +1,34 @@
+body{
+background-color: #fff;
+display:flex;
+flex-direction: column;
+align-items: center;
+width: 90%;
+text-align: center;}
+
+.contain{
+display:flex;
+gap: 1rem;
+justify-content: center;}
+
+.box{
+border: #000 5px solid;
+border-radius: 20%;
+padding: 2rem 1rem;}
+
+#grey{
+background-color: #e0e0e0;}
+
+#green{
+background-color: #6fcf97;}
+
+#blue{
+background-color: #56ccf2;}
+
+#pink{
+background-color: #bb6bd9;}
+
+.area{
+padding: 20px;
+width: 70%;
+}
